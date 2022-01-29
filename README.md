@@ -15,3 +15,8 @@ find /home/pi/RetroPie/roms/ -maxdepth 2 -name '*GAME NAME HERE*' -exec echo {} 
 Remember that this is case sensitive and will not find roms in systems such as arcade
 
 **************** Collection compiled by MrBumps 2020 *************************
+
+Updated by me. 
+
+Helpful links: List of NEO-GEO Games: https://en.wikipedia.org/wiki/List_of_Neo_Geo_games
+All Killer, No Filler set for Beat M Ups - http://forum.arcadecontrols.com/index.php?topic=149833.0
